@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">LPoll</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btnLogin">Login</string>
+    <string name="btnRegister">Register</string>
+    <string name="tvMainTitle_1">Let\'s</string>
+    <string name="tvMainTitle_2">Poll</string>
+    <string name="etName">Name</string>
+    <string name="etEmail">Email</string>
+    <string name="etPassword">Password</string>
+    <string name="etPasswordConfirm">Confirm Password</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="fragment_created_poll">Created</string>
+    <string name="fragment_other">Other\'s</string>
+    <string name="btnLogout">Logout</string>
+    <string name="tvQuestion">Question</string>
+    <string name="tvOption">Options</string>
+    <string name="btnCreate">Create Poll</string>
+    <string name="btnRegisterAccount"><u>Do not have an account yet?</u></string>
+
+</resources>

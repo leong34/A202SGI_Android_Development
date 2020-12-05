@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/shareableLink"
+        android:icon="@drawable/ic_link"
+        android:title="Get Shareable Code"
+        app:showAsAction="always" />
+</menu>

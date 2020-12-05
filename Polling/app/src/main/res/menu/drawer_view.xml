@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_fragment_created_poll"
+            android:title="@string/fragment_created_poll"
+            android:icon="@drawable/ic_person"/>
+
+        <item
+            android:id="@+id/nav_others"
+            android:icon="@drawable/ic_public"
+            android:title="Public" />
+<!--            android:icon="@drawable/ic_two"-->
+
+        <item
+            android:id="@+id/nav_private"
+            android:icon="@drawable/ic_private"
+            android:title="Join Poll With Code" />
+        <item
+            android:id="@+id/logout"
+            android:title="@string/btnLogout"
+            android:icon="@drawable/logout"/>
+    </group>
+</menu>
